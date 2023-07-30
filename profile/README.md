@@ -14,7 +14,7 @@ TwitRestore is a browser extension that brings back the original Twitter brandin
 
 To install TwitRestore, follow these steps:
 
-1. For Firefox, download the extension from the [GitHub](https://github.com/twitrestore/firefox)
+1. For Firefox, follow the instructions from the [GitHub](https://github.com/twitrestore/firefox)
 
 ## Usage
 
